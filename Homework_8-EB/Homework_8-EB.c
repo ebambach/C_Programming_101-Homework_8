@@ -2,7 +2,10 @@
 // Name: Eric Bambach
 // Class: C Programming 1 (151-001)
 // Abstract: Homework 8
-// 
+// Using the the Addresses1.txt file as input, parse the addresses to udtAddressType 
+// audtAddresses[] and print the data after parsing. The data in the txt file is always in the 
+// format of “RecordID, Full Name, Street, City, State, ZipCode” and the full name may or may 
+// not include a middle name.
 // ------------------------------------------------------------------------------------------
 
 #define _CRT_SECURE_NO_WARNINGS
